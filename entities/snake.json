@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Indian Cobra",
+    "venomous": true,
+    "description": "Highly venomous species found across India."
+  },
+  {
+    "id": 2,
+    "name": "Russell's Viper",
+    "venomous": true,
+    "description": "One of the most dangerous snakes in Asia."
+  },
+  {
+    "id": 3,
+    "name": "Rat Snake",
+    "venomous": false,
+    "description": "Non-venomous and commonly found in villages."
+  }
+]
